@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chu Ngoc Vuong</h1>
 <h3 align="center">Computer Sience Student | Graduate 2025</h3>
-<img align="right" width=400 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="dutrg" />
+<img align="right" width=200 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="dutrg" />
 
 
-- 🔭 I’m currently working on [Complete Blood Cell count Using YOLO](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/htl.2018.5098)
+- 🔭 On going project [Complete Blood Cell count Using YOLO](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/htl.2018.5098)
 
-- 🌱 I’m currently learning **Machine learning, Deep learning**
+- 🌱 Currently learning **Machine learning, Deep learning, AI related**
 
 - 📫 How to reach me **chungocvuong3@gmail.com**
 
